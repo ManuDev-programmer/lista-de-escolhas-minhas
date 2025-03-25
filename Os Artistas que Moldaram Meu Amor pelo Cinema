@@ -1,0 +1,49 @@
+<!DOCTYPE html> 
+<html>
+<head>
+  <title>Os Artistas que Moldaram Meu Amor pelo Cinema</title>
+</head>
+<body>
+  <h2>Minhas atrizes favoritas</h2>
+  <ol>Marilyn Monroe</ol>
+  <ol>Audrey Hepburn</ol>
+  <ol>Monica Bellucci</ol>
+  <ol>Fernanda Montenegro</ol>
+  <ol>Natalie Portman</ol>
+  <ol>Leandra Leal</ol>
+  
+  <h2>Meus Atores favoritos</h2>
+  <li>Wagner Moura</li>
+  <li>Evan Peters</li>
+  <li>Lázaro Ramos</li>
+  <li>Rodrigo Santoro</li>
+  <li>Tom Hanks</li>
+  <li>Will Smith</li>
+  <li>Selton Melo</li>
+  
+  <h2>Meus diretores favoritos</h2>
+  <dd>
+    <em> E o motivo da minha prefer&ecirc;ncia</em>
+  </dd>
+  <dl>
+  <dt>
+    <b>Quentin Tarantino</b>
+    </dt>
+    <dd>Seu estilo visual e roteiro são inconfundíveis </br>
+      Ele brinca com as cores, recicla planos, reinventa cenas
+    </dd><br>
+  <dt>
+    <b>Bong Joon-ho</b>
+  </dt>
+    <dd>Bong Joon-ho é um bom diretor porque mistura gêneros, tem um humor sombrio,
+      e explora as diferenças sociais. Ele também é conhecido por sua montagem ágil e apuro visual. </dd><br>
+  <dt>
+    <b>Steven Spielberg</b>
+  </dt>
+    <dd>Steven Spielberg é considerado um dos maiores diretores de cinema de todos os tempos por sua
+      capacidade de criar histórias envolventes, utilizar efeitos especiais de forma
+      inovadora e influenciar gerações. </dd>
+  </dl>
+</body>
+
+</html>
